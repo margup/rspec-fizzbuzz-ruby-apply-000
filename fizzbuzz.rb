@@ -6,5 +6,5 @@ def fizzbuzz(x)
     "Fizz"
     elsif x % 5 == Integer
     "Buzz"
-  
+  end
 end
