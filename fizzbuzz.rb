@@ -3,8 +3,8 @@
 
 def fizzbuzz(x)
   if x % 3 == Integer
-   puts "Fizz"
-    "Fizz"
+   print "Fizz"
+    
     elsif x % 5 == Integer
    puts "Buzz"
   end
