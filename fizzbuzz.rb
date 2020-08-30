@@ -4,6 +4,7 @@
 def fizzbuzz(x)
   if x % 3 == Integer
     
-    return "Fizz"
+    puts "#{Fizz}"
+     "#{Fizz}"
     end
 end
