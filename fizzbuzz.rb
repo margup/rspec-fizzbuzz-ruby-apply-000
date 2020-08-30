@@ -3,9 +3,7 @@
 
 def fizzbuzz(x)
   if x % 3 == Integer
-    "Fizz"
     
-    elsif x % 5 == Integer
-   puts "Buzz"
-  end
+    "Fizz"
+    end
 end
