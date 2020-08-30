@@ -5,5 +5,7 @@ def fizzbuzz(x)
   if x % 3 == Integer
     
     "Fizz"
+  else 
+    nil
     end
 end
